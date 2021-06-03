@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Four choice carols for Christmas holidays. Carol I. On Christmas-Day. Carol II. On St. Stephen's-Day. Carol III. On St. John's-Day. Carol IV. On Innocent's-Day. Being very necessary and proper to be had in all Christian families.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23096</idno><idno type="EEBO-CITATION">99894602</idno>
+  <idno type="VID">192866</idno>
+  <idno type="EEBO-PROQUEST">2240918465</idno>
+  
+            <idno type="STC">Wing F1652</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[452]</idno>
+            <idno type="PROQUEST">ocm99894602</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99894602e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192866)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[267])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Four choice carols for Christmas holidays. Carol I. On Christmas-Day. Carol II. On St. Stephen's-Day. Carol III. On St. John's-Day. Carol IV. On Innocent's-Day. Being very necessary and proper to be had in all Christian families.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700-1701?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Verse: "God rest you merry gentlemen,".</note>
+                  <note>In this edition the columns are divided by ruled lines.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Carols, English --  18th century.</term>
+               <term type="genre_form">Broadsides --  England --  18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:192866:1"/>
+            <head>FOUR Choice CAROLS for CHRISTMAS HOLIDAYS.</head>
+            <list>
+               <item>CAROL I. On CHRISTMAS-DAY.</item>
+               <item>CAROL II. On St. STEPHEN's-DAY.</item>
+               <item>CAROL III. On St. JOHN's-DAY.</item>
+               <item>CAROL IV. On INNOCENT's-DAY.</item>
+            </list>
+            <p>
+               <hi>Being very necessary and proper to be had in all CHRISTIAN FAMILIES.</hi>
+            </p>
+            <p>
+               <figure>
+                  <head>S<seg rend="sup">t</seg> Mathew</head>
+               </figure>
+               <figure>
+                  <figDesc>Mary with Christ child</figDesc>
+               </figure>
+               <figure>
+                  <head>S<seg rend="sup">t</seg> John</head>
+               </figure>
+            </p>
+            <div n="1" type="carol">
+               <head>CAROL I. On CHRISTMAS-DAY.</head>
+               <lg>
+                  <l>GOD rest you merry Gentlemen,</l>
+                  <l>Let nothing you dismay;</l>
+                  <l>Remember Christ our Saviour,</l>
+                  <l>Who was born on <hi>Christmas-day.</hi>
+                  </l>
+                  <l>To save our Souls from <hi>Satan's</hi> Fold,</l>
+                  <l>Which long time had gone astray.</l>
+                  <l>
+                     <hi>And 'tis Tidings of Comfort and Joy.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>From him that was our Father,</l>
+                  <l>The Blessed Angel came,</l>
+                  <l>And to the watchful shepherds brought</l>
+                  <l>The Tidings of the same:</l>
+                  <l>That there was born in <hi>Bethlehem,</hi>
+                  </l>
+                  <l>The Son of God by Name,</l>
+                  <l>
+                     <hi>And 'tis Tidings,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Fear not, then said God's Angels,</l>
+                  <l>Let nothing you affright,</l>
+                  <l>This Night is born a Saviour,</l>
+                  <l>Of a Virgin pure and bright:</l>
+                  <l>He is able to advance you,</l>
+                  <l>And throw down <hi>Satan</hi> quite.</l>
+                  <l>
+                     <hi>And 'tis Tidings,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>The Shepherds at these Tidings,</l>
+                  <l>Rejoiced much in Mind,</l>
+                  <l>And left their Flocks a feeding,</l>
+                  <l>In Tempest, Storm, and Wind:</l>
+                  <l>Then straight they went to <hi>Bethlehem,</hi>
+                  </l>
+                  <l>The son of God to find.</l>
+                  <l>
+                     <hi>And 'tis Tidings,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>But when they came to <hi>Bethlehem,</hi>
+                  </l>
+                  <l>Whereas our Saviour lay,</l>
+                  <l>They found him in a Manger,</l>
+                  <l>Where Oxen fed on Hay:</l>
+                  <l>Our blessed Lady Kneeling by,</l>
+                  <l>Unto the Lord did pray.</l>
+                  <l>
+                     <hi>And 'tis Tidings,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>At which the sudden Gladness.</l>
+                  <l>The Shepherds then were fill'd,</l>
+                  <l>When as the Babe of <hi>Israel,</hi>
+                  </l>
+                  <l>Thus when they had beheld:</l>
+                  <l>Before his Mother thus to lie,</l>
+                  <l>The Scripture thus fulfill'd.</l>
+                  <l>
+                     <hi>And 'tis Tidings,</hi> &amp;c.</l>
+               </lg>
+               <lg>
+                  <l>Now let me all you intreat,</l>
+                  <l>That are within this Place,</l>
+                  <l>That each dear loving Christian,</l>
+                  <l>The other would embrace;</l>
+                  <l>For the happy Time of <hi>Christmas</hi>
+                  </l>
+                  <l>Is drawing on apace.</l>
+                  <l>
+                     <hi>With Tidings and Comfort and Joy.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="carol">
+               <head>CAROL II. On St STEPHEN'S-DAY.</head>
+               <lg>
+                  <l>IN friendly Love and Unity,</l>
+                  <l>For good St <hi>Stephen's</hi> Sake,</l>
+                  <l>Let us all this blessed Day,</l>
+                  <l>To Heaven our Prayers make,</l>
+                  <l>That we with him the Cross of Christ,</l>
+                  <l>May freely undertake.</l>
+                  <l>
+                     <hi>And</hi> Jesus <hi>will send you his Blessing.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Those accursed Infidels,</l>
+                  <l>That stoned him to Death,</l>
+                  <l>Could not by their Cruelties,</l>
+                  <l>With-hold him from his Faith,</l>
+                  <l>In such a godly Martyrdom,</l>
+                  <l>Seek we all the Paths.</l>
+                  <l>
+                     <hi>And</hi> Jesus <hi>will send you his Blessing.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And whilst we sit here banqueting</l>
+                  <l>Of Dainties having Store,</l>
+                  <l>Let us not forgetful be,</l>
+                  <l>To cherish up the Poor,</l>
+                  <l>And give what is convenient</l>
+                  <l>To those that ask at Door.</l>
+                  <l>
+                     <hi>And</hi> Jesus <hi>will send you his Blessing.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For God hath made you Stewards here,</l>
+                  <l>Upon the Earth to dwell:</l>
+                  <l>He that gathereth for himself,</l>
+                  <l>And will not use it well,</l>
+                  <l>Lives far worse then Dives did,</l>
+                  <l>That burneth now in Hell.</l>
+                  <l>
+                     <hi>And</hi> Jesus <hi>will send you his Blessing.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And now in Love and Charity,</l>
+                  <l>See you your Table spread,</l>
+                  <l>That I may taste of your good Chear,</l>
+                  <l>Your <hi>Christmas</hi> Ale and Bread;</l>
+                  <l>That I may say that I full well.</l>
+                  <l>For this my Carol sped.</l>
+                  <l>
+                     <hi>And</hi> Jesus <hi>will send you his Blessing.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For Bounty is a blessed Gift,</l>
+                  <l>The Load above it sends,</l>
+                  <l>And he that gives it from his Hands,</l>
+                  <l>Deserveth many Friends;</l>
+                  <l>I see it on my Master's Board,</l>
+                  <l>And so my Carol ends,</l>
+                  <l>
+                     <hi>Lord</hi> Jesus <hi>send you his Blessing.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="3" type="carol">
+               <head>CAROL III. On St JOHN'S-DAY.</head>
+               <lg>
+                  <l>WHEN bloody <hi>Herod</hi> reigned King,</l>
+                  <l>Within <hi>Judea</hi>'s Land,</l>
+                  <l>Much Wo his Will did bring,</l>
+                  <l>By bloody fierce Command.</l>
+                  <l>Among the Rest, with Grief oppress'd;</l>
+                  <l>Was good St <hi>John</hi> here slain,</l>
+                  <l>Who at this Day with Sport and Play,</l>
+                  <l>A martyr'd Death did gain.</l>
+               </lg>
+               <lg>
+                  <l>King Herod being in his Town,</l>
+                  <l>Herodias dancing 'spy'd,</l>
+                  <l>As fair as any Summer's Flower,</l>
+                  <l>In all her painted Pride:</l>
+                  <l>Clad in bright Gold, which to behold,</l>
+                  <l>King Herod's Heart admir'd,</l>
+                  <l>He bid her crave, and she should have,</l>
+                  <l>Though she Half his Crown desir'd.</l>
+               </lg>
+               <lg>
+                  <l>A kingly Crown I do not wish,</l>
+                  <l>But St John's Head, she said,</l>
+                  <l>Wherefore all bleeding in a Dish,</l>
+                  <l>Before me be it laid;</l>
+                  <l>Which was the Thing, she of the King,</l>
+                  <l>Desir'd with right Goodwill;</l>
+                  <l>Whose Death was wrought and to be brought,</l>
+                  <l>Such Minds have Strumpets still,</l>
+               </lg>
+               <lg>
+                  <l>Thus Wine and Woman we do see,</l>
+                  <l>Men's Minds to Folly win;</l>
+                  <l>For <hi>Herod</hi> did too soon agree,</l>
+                  <l>And gave Consent to Sin:</l>
+                  <l>For on this Day, as Scriptures say,</l>
+                  <l>St <hi>John</hi> did lose his Head:</l>
+                  <l>Whilst he did sing, before the King,</l>
+                  <l>As he at Table fed.</l>
+               </lg>
+               <lg>
+                  <l>Then let us all by him take Heed</l>
+                  <l>Of Riot and Excess,</l>
+                  <l>For Fear that soon to us it breed</l>
+                  <l>As great a Wickedness:</l>
+                  <l>And let our Sport, in civil Sort,</l>
+                  <l>Content each merry Mind,</l>
+                  <l>So shall we all, in this good Hall,</l>
+                  <l>Much Joy and comfort find.</l>
+               </lg>
+               <lg>
+                  <l>Now kindly for my pretty Song,</l>
+                  <l>Good Butler draw some Beer,</l>
+                  <l>You know what duties do belong</l>
+                  <l>To him that sings so clear:</l>
+                  <l>Holly and Ive, Drink will drive ye</l>
+                  <l>To the brown bowl of Perry,</l>
+                  <l>Apples and Ale, with <hi>Christmas</hi> Tale,</l>
+                  <l>Will make the Houshold merry.</l>
+               </lg>
+            </div>
+            <div n="4" type="carol">
+               <head>CAROL IV. On INNOCENT'S DAY.</head>
+               <lg>
+                  <l>UPON the Twenty-fifth of <hi>December,</hi>
+                  </l>
+                  <l>Our blessed Messias he was born:</l>
+                  <l>Let us with Praise this Day adore,</l>
+                  <l>To see how he left his Habitation;</l>
+                  <l>For to redeem poor sinfull Men</l>
+                  <l>
+                     <hi>Sing Praise unto his most holy Name.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>First.</hi> A bright Angel brought the happy Tidings,</l>
+                  <l>Unto a Virgin pure and chaste,</l>
+                  <l>Hail! blessed <hi>Mary,</hi> full of Grace,</l>
+                  <l>The Lord of Life remains with thee,</l>
+                  <l>The blessed Saviour of all Men.</l>
+                  <l>
+                     <hi>Sing Praise unto his most holy Name.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The blessed Virgin weary was and ti<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed,</l>
+                  <l>When she came to <hi>Bethlehem,</hi>
+                  </l>
+                  <l>There was no Lodging for her then,</l>
+                  <l>She was deliver'd of our Saviour,</l>
+                  <l>That very Night in an Ox's Stall,</l>
+                  <l>To shew that Man's Pride must have a Fall.</l>
+               </lg>
+               <lg>
+                  <l>Then came three Wise-men, Kings that were so loya</l>
+                  <l>All guided by a glorious Star,</l>
+                  <l>From the East Country came so far,</l>
+                  <l>To see the blessed Babe sweet Jesus,</l>
+                  <l>That in a Manger there was laid,</l>
+                  <l>
+                     <hi>Sing Praise unto his holy Name.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But when King <hi>Herod</hi> found himself deceiv'd,</l>
+                  <l>He was with Wrath and Anger fill'd;</l>
+                  <l>Vowing that all Infants should be kill'd,</l>
+                  <l>Thinking to murder our dear Saviour,</l>
+                  <l>Who came for to redeem us then,</l>
+                  <l>O cruel, cruel, and most bloody Man!</l>
+               </lg>
+               <lg>
+                  <l>Then came the glorious happy Tidings▪</l>
+                  <l>Unto poor Shepherds feeding Sheep,</l>
+                  <l>Which made the Shepherds Hearts to leap,</l>
+                  <l>To hear the blessed Babe sweet Jesus</l>
+                  <l>That he was born in <hi>Bethlehem,</hi>
+                  </l>
+                  <l>
+                     <hi>Sing Praise unto his most gracious Name.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
